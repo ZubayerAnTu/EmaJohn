@@ -11,6 +11,9 @@ function App() {
         
         <Header></Header>
         <h1 style={{color:'black' }}>jkshajksjsjkj</h1>
+        <h1 style={{color:'black' }}>jkshajksjsjkj</h1>
+        <h1 style={{color:'black' }}>jkshajksjsjkj</h1>
+        <h1 style={{color:'black' }}>jkshajksjsjkj</h1>
       </div>
       
   
